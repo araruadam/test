@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-sfvgasdf fvbergr5eb rt 
-=======
-sjkndjkv
->>>>>>> 35bde83156ba4afb43aeca822c31dca05cabe53b
+
+sfvgasdf fvbergr5eb rt
